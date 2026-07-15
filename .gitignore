@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Data
+data/raw/
+data/cleaned/
+data/reports/
+
+# Power BI cache
+*.pbix.autorecover
+
+# OS
+.DS_Store
+Thumbs.db
