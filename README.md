@@ -193,31 +193,34 @@ Highlights
 
 ## Executive Dashboard
 
-![Executive](dashboard/Executive%20Dashboard%201.png)
+<img width="1313" height="797" alt="executive_dashboard" src="https://github.com/user-attachments/assets/73bd17a9-853a-4bc1-ab92-b1a89f6a9061" />
+
 
 ---
 
 ## Branch Performance
+<img width="1315" height="799" alt="branch_performance" src="https://github.com/user-attachments/assets/2645caad-569c-4502-a743-223adb836660" />
 
-![Branch](dashboard/Branch%20Performance%202.png)
 
 ---
 
 ## Sales & Agent Performance
 
-![Sales](dashboard/Sales%20%26%20Agent%20Performance%203.png)
+<img width="1319" height="794" alt="sales_agent_performance" src="https://github.com/user-attachments/assets/78f31db3-91f8-4c4c-af74-5838d22ac36e" />
+
 
 ---
 
 ## Product Performance
 
-![Product](dashboard/Product%20Performance%20%26%20Loan%20Health%204.png)
+<img width="1314" height="739" alt="product_performance" src="https://github.com/user-attachments/assets/1ed7eea5-fe77-4df9-a614-cd0a12054345" />
+
 
 ---
 
 ## Audit Dashboard
 
-![Audit](dashboard/Audit%20%26%20Reconciliation%205.png)
+<img width="1319" height="799" alt="audit_dashboard" src="https://github.com/user-attachments/assets/30054296-f891-4454-9556-6ab491c65208" />
 
 ---
 
